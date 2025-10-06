@@ -8,5 +8,5 @@ Make sure you use shift-lock or first-person since this relies on it.
 You can enable shift-lock in Asylum Life by pressing LeftCtrl.
 ## Script
 ```lua
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheEGodOfficial/asylum-life-ez-stun-script/refs/heads/main/Holder/Source.lua"))()
 ```
